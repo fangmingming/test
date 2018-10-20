@@ -11,7 +11,8 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://test-1252736589.file.myqcloud.com/ios/ubey.ipa</string>
+					<string>https://test-1252736589.file.myqcloud.com/ios/jingmai.ipa
+</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,13 +34,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>carl.ubey</string>
+				<string>epfile.bi</string>
 				<key>bundle-version</key>
 				<string>1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>UBEY</string>
+				<string>晶脉</string>
 			</dict>
 		</dict>
 	</array>
